@@ -1,0 +1,7 @@
+﻿  Arcanoid.cpp
+C:\Users\mcula\source\repos\Arcanoid\Arcanoid.cpp(12,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\mcula\source\repos\Arcanoid\Arcanoid.cpp(144,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\mcula\source\repos\Arcanoid\Arcanoid.cpp(145,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\mcula\source\repos\Arcanoid\Arcanoid.cpp(146,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\mcula\source\repos\Arcanoid\Arcanoid.cpp(146,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Arcanoid.vcxproj -> C:\Users\mcula\source\repos\Arcanoid\x64\Debug\Arcanoid.exe
